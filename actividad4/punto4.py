@@ -14,7 +14,7 @@ l.append(n5)
 max_value=max(l)
 min_value=min(l)
 average=sum(l)/len(l)
-
+count=0
 print(f"El valor maximo es: {max_value}")
 print(f"El valor minimo es: {min_value}")
 print(f"El promedio es: {average}")
